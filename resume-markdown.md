@@ -10,12 +10,12 @@ github: [@robhitt](http://www.github.com/robhitt) | website: [robhitt.com](http:
 * Accessed user login and session info via JWT for authorization
 * Styled front-end with Bootstrap library for responsive design + customized CSS
 
-[Evolution The Game](https://robhitt.github.io/evolution/)​ \- *A two-player web-based game based on character life-form evolution* [Github](https://github.com/robhitt/evolution)
+[Evolution The Game](https://robhitt.github.io/evolution/)​ \- *A two-player web-based game based on character life-form evolution* ([Github](https://github.com/robhitt/evolution))
 * Built single-page application Javascript game with a responsive board and player pieces
 * Implemented Javascript and jQuery to enable dynamic movement based on keyPress events manipulating the DOM
 * Utilized Git branches and pull requests to maintain a distributed workflow
 
-[Open Stage](https://github.com/cy2003/openstage)​ \- *A self-service booking tool for musicians, comedians and entertainers*
+[Open Stage](https://github.com/cy2003/openstage)​ \- *A self-service booking tool for musicians, comedians, and entertainers*
 * Wrote RESTful routing and CRUD logic using Ruby on Rails and MVC pattern to render dynamic event pages
 * Designed the schema for PostgreSQL database and built out ActiveRecord associations
 * Styled front-end with Materialize library for responsive design
@@ -36,7 +36,7 @@ Javascript, HTML, CSS, React, Redux, Ruby, Ruby on Rails, Adobe Photoshop, Micro
 * Manage multiple album releases start to finish, having sold over 500,000 albums worldwide.
 * Lead artist development for multiple bands (Dragonette, Four Year Strong, Valencia, I Am The Avalanche).
 * Developed and implemented financial planning, budgeting, accounting, business development, and hiring initiatives.
-* Create and oversee website design, social media marketing and music licensing deals; serve as champion of social
+* Create and oversee website design, social media marketing, and music licensing deals; serve as champion of social
 media tools and technologies, with a track record of creating and implementing successful social media programs.
 
 

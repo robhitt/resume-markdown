@@ -1,15 +1,6 @@
-<div>
-  <div style="float: left;">
-    <h3>ROB HITT</h1>
-    </div>
-    <div style="float: right;">
-      732.682.4952  
-      <robhitt@gmail.com>  
-      github: [@robhitt](http://www.github.com/robhitt) | website: [robhitt.com](http://www.robhitt.com)
-    </div>
-</div>
-
-<div style="clear: both;"></div>
+# ROB HITT
+732.682.4952 | <robhitt@gmail.com>  
+github: [@robhitt](http://www.github.com/robhitt) | website: [robhitt.com](http://www.robhitt.com)
 
 ---
 

@@ -19,8 +19,9 @@ github: [@robhitt](http://www.github.com/robhitt) | website: [robhitt.com](http:
 * Wrote RESTful routing and CRUD logic using Ruby on Rails and MVC pattern to render dynamic event pages
 * Designed the schema for PostgreSQL database and built out ActiveRecord associations
 * Styled front-end with Materialize library for responsive design
+
 [Bodega Cats](http://www.bodegacats.nyc)​ \- An online gallery of cats residing in corner stores across the world
-* Owner of a popular Instagram page (93,000+ Followers and press coverage in Buzzfeed, Mashable, The Dodo, etc.)
+* Owner of a popular Instagram page (95,000+ Followers and press coverage in Buzzfeed, Mashable, The Dodo, etc.)
 
 ---
 
@@ -31,47 +32,40 @@ Javascript, HTML, CSS, React, Redux, Ruby, Ruby on Rails, Adobe Photoshop, Micro
 
 #### PROFESSIONAL EXPERIENCE
 ##### I Surrender Records | Brooklyn, NY | Founder/Owner (2003 - Present)
-Founded and manage daily operations of an independent, globally distributed (Sony) record label.
+* Founded and manage daily operations of an independent, globally distributed (Sony) record label.
 * Manage multiple album releases start to finish, having sold over 500,000 albums worldwide.
 * Lead artist development for multiple bands (Dragonette, Four Year Strong, Valencia, I Am The Avalanche).
-* Developed and implemented financial planning, budgeting, accounting, business development and hiring initiatives.
+* Developed and implemented financial planning, budgeting, accounting, business development, and hiring initiatives.
 * Create and oversee website design, social media marketing and music licensing deals; serve as champion of social
 media tools and technologies, with a track record of creating and implementing successful social media programs.
 
 
 ##### Crush Music | New York, NY | Artist Manager (2007 - 2016)
-* Led all artist management responsibilities for Shaggy, Big Data, Andrew McMahon in the Wilderness, Jack’s
-Mannequin, and other various artists; developed and built the professional career of various platinum, Grammy
-award-winning solo artists & bands.
-* Acted as CEO of multiple seven figure businesses: marketing, digital marketing, artist relations, contracts, accounting,
-brand partnerships and logistics.
-* Managed all aspects of the artist careers, including writing, recording and releasing albums with the record label,
-touring, publishing, licensing, publicity, music/viral videos and lifestyle marketing/branding
-* Organized and oversaw worldwide tours, private events and national television shows (Larry King, Seth Meyers,
-CONAN, TODAY Show); road managed Sia and Pete Wentz (Fall Out Boy) for DJ events, coordinating financial,
-logistical and technical performance aspects.
-* Partnered with Red Bull, Journey’s, Bose, Fuse, MTV, Spotify, Pandora, Vevo, Twitter, Facebook, iTunes, Wired,
-Bloomberg and the Wall Street Journal on various lifestyle-marketing campaigns and branding opportunities and led negotiations procuring six-figure branding deals.
+* Led all artist management responsibilities for Shaggy, Big Data, Andrew McMahon in the Wilderness, Jack’s Mannequin, and other various artists; developed and built the professional career of various platinum, Grammy award-winning solo artists & bands.
+* Acted as CEO of multiple seven figure businesses: marketing, digital marketing, artist relations, contracts, accounting, brand partnerships, and logistics.
+* Managed all aspects of the artist careers, including writing, recording and releasing albums with the record label, touring, publishing, licensing, publicity, music/viral videos, and lifestyle marketing/branding.
+* Organized and oversaw worldwide tours, private events and national television shows (Larry King, Seth Meyers, CONAN, TODAY Show); road managed Sia and Pete Wentz (Fall Out Boy) for DJ events, coordinated financial, logistical, and technical performance aspects.
+* Partnered with Red Bull, Journey’s, Bose, Fuse, MTV, Spotify, Pandora, Vevo, Twitter, Facebook, iTunes, Wired, Bloomberg, and the Wall Street Journal on various lifestyle-marketing campaigns and led negotiations procuring six-figure branding deals.
 
-##### Midtown (Columbia/Universal Records) | New Brunswick, NY | Founder/Drummer (1999 - 2005)
+##### Midtown (Columbia/Universal Records) | New Brunswick, NJ | Founder/Drummer (1999 - 2005)
 * Oversaw finances, strategy and development of band growth, selling over 300,000 albums worldwide; toured
-internationally across Europe, Japan and Australia over 20 times.
+internationally across Europe, Japan, and Australia over 20 times.
 * Created band website and oversaw maintenance of multiple social networks.
 * Constructed talks with MySpace.com to become their first custom ‘band’ site.
 
 ##### Delia\*s Web Properties (subsidiary of iTurf) | NJ | Web Developer (1998 - 2000)
-* Provided web design, community management and graphic design support to optimize customer experience
+* Provided web design, community management, and graphic design support to optimize customer experience
  and increase sales revenue across multiple web properties of a social network-based technology company.
 * Installed live stream computers across college campuses to reach a highly sought after demographic.
 
 ---
 
 #### EDUCATION
-##### Flatiron School | New York, NY
-* Full-Stack Web Development Program (2017)
+##### Flatiron School | New York, NY (2017)
+* Full-Stack Web Development Program
 
-##### Rutgers​ University | New Brunswick, NJ
-* **Major**: Management Science and Information Systems | **Minor**: Computer Science (1996 -2000)
+##### Rutgers​ University | New Brunswick, NJ (1996 -2000)
+* **Major**: Management Science and Information Systems | **Minor**: Computer Science
 
 
 * **Campus Information Systems Developer**: ​Oversaw website design and maintenance, graphic design and
